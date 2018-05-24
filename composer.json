@@ -18,5 +18,11 @@
         "psr-4": {
             "Youtu\\Phpsdk\\": "src/Youtu/Phpsdk"
         }
+    },
+    "config": {
+        "process-timeout": 1800,
+        "github-oauth": {
+            "github.com": "9e872d5fc25ff42c9279d3f81fc8c024bf59c50e"
+        }
     }
 }
