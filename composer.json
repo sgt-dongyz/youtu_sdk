@@ -14,6 +14,9 @@
     "require": {
 		"php": ">=5.3"
 	},
+    "require-dev":{
+        "tengxun/youtu_sdk":"dev-master"
+    },
 	"autoload": {
         "psr-4": {
             "Youtu\\Phpsdk\\": "src/Youtu/Phpsdk"
