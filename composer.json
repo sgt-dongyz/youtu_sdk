@@ -2,7 +2,7 @@
     "name": "tengxun/youtu_sdk",
     "type": "library",
     "description": "for youtu php sdk",
-    "keywords": ["youtu,tencent,ai"],
+    "keywords": ["youtu","tencent","ai"],
     "license": "MIT",
     "authors": [
         {
@@ -17,12 +17,6 @@
 	"autoload": {
         "psr-4": {
             "Youtu\\Phpsdk\\": "src/Youtu/Phpsdk"
-        }
-    },
-    "config": {
-        "process-timeout": 1800,
-        "github-oauth": {
-            "github.com": "9e872d5fc25ff42c9279d3f81fc8c024bf59c50e"
         }
     }
 }
