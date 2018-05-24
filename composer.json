@@ -1,25 +1,26 @@
 {
-    "name": "tengxun/youtu_sdk",
-    "type": "library",
-    "description": "for youtu php sdk",
-    "keywords": ["youtu","tencent","ai"],
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "dongyz",
-            "email": "dongyongzheng@qq.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {
-		"php": ">=5.3"
-	},
-    "require-dev":{
-        "tengxun/youtu_sdk":"dev-master"
-    },
-	"autoload": {
-        "psr-4": {
-            "Youtu\\Phpsdk\\": "src/Youtu/Phpsdk"
-        }
+  "name": "tengxun/youtu_sdk",
+  "type": "library",
+  "description": "for youtu php sdk",
+  "keywords": [
+    "youtu",
+    "tencent",
+    "ai"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "dongyz",
+      "email": "dongyongzheng@qq.com"
     }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Youtu\\Phpsdk\\": "src/Youtu/Phpsdk"
+    }
+  }
 }

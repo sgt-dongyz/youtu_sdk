@@ -5,7 +5,7 @@ php sdk for [腾讯优图开放平台](http://open.youtu.qq.com)
 ## 安装
 
 
-composer require tengxun/youtu_sdk
+composer require tengxun/youtu_sdk dev-master
 
 ## 名词
 
