@@ -1,7 +1,7 @@
 {
     "name": "tengxun/youtu_sdk",
     "description": "for youtu php sdk",
-    "type": "library",
+    "keywords": ["youtu tencent ai"],
     "license": "MIT",
     "authors": [
         {
